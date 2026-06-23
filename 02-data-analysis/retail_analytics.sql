@@ -1,7 +1,8 @@
 -- BS Data Science Portfolio: Project 05
 -- Title: Retail Analytics & Database Query Case Study
 -- Description: Demonstrates relational database design and business analytics using SQL.
-
+DROP TABLE IF EXISTS Orders;
+DROP TABLE IF EXISTS Customers;
 -----------------------------------------------------------
 -- 1. DATABASE SCHEMA
 -----------------------------------------------------------
