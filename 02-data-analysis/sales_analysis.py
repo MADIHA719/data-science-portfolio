@@ -1,4 +1,4 @@
-/# BS Data Science Portfolio: Project 02
+# BS Data Science Portfolio: Project 02
 # Title: Mock Retail Sales Data Analyzer
 # Description: Analyzes structured sales data to compute revenue and identify top-performing products.
 
@@ -57,4 +57,5 @@ if __name__ == "__main__":
         "Monitor": {"price": 300, "units_sold": 20}
     }
 
-     analyze_sales_data(monthly_sales)
+    # Fixed: Added 4 spaces of indentation here
+    analyze_sales_data(monthly_sales)
