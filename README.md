@@ -1,105 +1,168 @@
 # 📊 BS Data Science Portfolio
 
-A curated collection of my Python, Data Analysis, Data Visualization, Digital Literacy, and Machine Learning projects completed during my BS Data Science journey.
+Welcome to my **BS Data Science Portfolio**! This repository contains the projects I have completed while learning Python, Data Analysis, Data Visualization, Digital Literacy, and Machine Learning. It showcases my practical skills, continuous learning, and commitment to building real-world data science solutions.
 
 ---
 
-## 👋 Welcome
+## 👋 About Me
 
-Hello! I'm **Madiha**, a BS Data Science student passionate about solving real-world problems using Python and data-driven solutions. This repository showcases my academic projects, practical exercises, and continuous learning as I build my skills in Data Science.
+Hello! I'm **Madiha**, a BS Data Science student passionate about programming, data analysis, and artificial intelligence. I enjoy solving problems with Python and continuously expanding my knowledge through hands-on projects.
 
----
-
-## 🎯 About Me
-
-- 🎓 BS Data Science Student
-- 💻 Python Programmer
-- 📊 Data Analysis Enthusiast
-- 📈 Data Visualization Learner
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌱 Continuously improving through hands-on projects
+### 🎯 Career Goals
+- Become a Professional Data Analyst
+- Build AI and Machine Learning solutions
+- Develop real-world Python applications
+- Work with data-driven technologies
+- Start a successful freelancing career
 
 ---
 
-## 🛠 Skills & Tools
+# 🛠 Skills & Technologies
 
+### Programming
 - Python
+- SQL (Basic)
+
+### Data Analysis
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
-- SQL (Basic)
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-- Excel
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+
+### Other Tools
 - Git & GitHub
+- Microsoft Excel
 - Digital Literacy
 
 ---
 
-## 📁 Repository Structure
+# 📁 Repository Structure
 
 ```
 data-science-portfolio/
 │
 ├── 01-python-basics/
-├── 02-data-analysis/
-├── 03-digital-literacy/
-├── 04-data-visualization/
-├── 05-machine-learning/
+│   └── data_summary.py
 │
+├── 02-data-analysis/
+│   ├── e_commerce_capstone.py
+│   ├── housing_market_eda.py
+│   ├── netflix_eda.py
+│   ├── retail_analytics.sql
+│   ├── sales_analysis.py
+│   └── smartphone_pandas_eda.py
+│
+├── 03-digital-literacy/
+│   └── ds_tools_guide.md
+│
+├── 04-data-visualization/
+│   ├── sales_dashboard.py
+│   └── smartphone_market_visualization.py
+│
+├── 05-machine-learning/
+│   └── customer_churn_predictor.py
+│
+├── .gitignore
 ├── LICENSE
 └── README.md
 ```
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Projects
 
-### 🐍 Python Basics
-- Data Summary Statistics Analyzer
-- Smart Calculator
-- Password Generator
-- File Organizer
-- Student Management System
-- Number Guessing Game
+## 🐍 Python Basics
 
-### 📊 Data Analysis
-- Sales Data Analysis
-- Housing Market Analysis
-- Smartphone Market Analysis
-- Data Cleaning Projects
-- SQL Analytics
+### 📊 Data Summary Statistics Analyzer
+A Python program that calculates:
+- Count
+- Sum
+- Mean
+- Maximum
+- Minimum
 
-### 📈 Data Visualization
-- Charts and Graphs
-- Dashboards using Matplotlib
-- Seaborn Visualizations
-
-### 🤖 Machine Learning
-- Beginner Machine Learning Projects
-- Model Training and Evaluation
-- AI Practice Projects
+**Skills:** Python • Functions • Lists • Dictionaries
 
 ---
 
-## 🚀 Future Goals
+## 📈 Data Analysis
 
-- Learn Scikit-learn
-- Build end-to-end Machine Learning projects
-- Participate in Kaggle competitions
-- Learn Power BI and Tableau
-- Develop AI-powered applications
-- Start freelancing in Python and Data Analysis
+### 🛒 E-Commerce Capstone Project
+Performed exploratory data analysis on an e-commerce dataset to identify business insights and trends.
+
+### 🏠 Housing Market EDA
+Analyzed housing market data using Python and Pandas to understand pricing patterns and market behavior.
+
+### 🎬 Netflix EDA
+Explored Netflix content to discover trends based on genres, ratings, release years, and countries.
+
+### 🛍 Sales Analysis
+Performed sales data analysis to generate business insights and summarize key performance indicators.
+
+### 📱 Smartphone Market Analysis
+Analyzed smartphone market data using Pandas and generated useful insights through data exploration.
+
+### 🗄 Retail Analytics (SQL)
+Executed SQL queries to retrieve, analyze, and summarize retail business data.
 
 ---
 
-## 📬 Contact
+## 📊 Data Visualization
+
+### 📈 Sales Dashboard
+Created visual dashboards using Python to present business data clearly and effectively.
+
+### 📉 Smartphone Market Visualization
+Built charts and visual reports using Matplotlib and Seaborn for smartphone market analysis.
+
+---
+
+## 🤖 Machine Learning
+
+### 👥 Customer Churn Predictor
+Developed a beginner machine learning model to predict customer churn using classification techniques.
+
+---
+
+# 📚 What I'm Learning
+
+- Advanced Python
+- Machine Learning
+- Artificial Intelligence
+- Data Visualization
+- Feature Engineering
+- Power BI
+- Tableau
+
+---
+
+# 🎯 Future Projects
+
+- Deep Learning
+- NLP (Natural Language Processing)
+- Recommendation Systems
+- Time Series Forecasting
+- Computer Vision
+- Kaggle Competitions
+
+---
+
+# 📬 Contact
 
 📧 **Email:** madihaliaqat02@gmail.com
 
+💼 **GitHub:** https://github.com/MADIHA719
+
 ---
 
-## ⭐ Thank You
+# ⭐ Thank You
 
-Thank you for visiting my portfolio! I continuously update this repository with new projects and improvements as I grow my skills in Python, Data Analysis, and Machine Learning.
+Thank you for visiting my portfolio!
+
+This repository is continuously updated as I complete new projects and improve my skills in Python, Data Analysis, Data Visualization, and Machine Learning.
+
+If you like my work, feel free to ⭐ star this repository.
