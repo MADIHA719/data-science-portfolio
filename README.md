@@ -1,21 +1,29 @@
 # 📊 BS Data Science Portfolio
 
-A curated collection of my Data Science learning projects and practice work.
-
-Welcome to my BS Data Science portfolio. I am a BS Data Science student passionate about learning Python, Data Analysis, and Data Visualization. This repository showcases my academic progress, hands-on projects, and skill development.
+A curated collection of my Python, Data Analysis, Data Visualization, Digital Literacy, and Machine Learning projects completed during my BS Data Science journey.
 
 ---
 
-## 🧠 About Me
-- BS Data Science Student  
-- Learning Python, Pandas, NumPy  
-- Focused on Data Analysis and Visualization  
-- Goal: Become a Data Analyst / Data Scientist  
+## 👋 Welcome
+
+Hello! I'm **Madiha**, a BS Data Science student passionate about solving real-world problems using Python and data-driven solutions. This repository showcases my academic projects, practical exercises, and continuous learning as I build my skills in Data Science.
 
 ---
 
-## 🛠️ Skills & Tools
-- Python (Core Programming)
+## 🎯 About Me
+
+- 🎓 BS Data Science Student
+- 💻 Python Programmer
+- 📊 Data Analysis Enthusiast
+- 📈 Data Visualization Learner
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🌱 Continuously improving through hands-on projects
+
+---
+
+## 🛠 Skills & Tools
+
+- Python
 - Pandas
 - NumPy
 - Matplotlib
@@ -23,40 +31,75 @@ Welcome to my BS Data Science portfolio. I am a BS Data Science student passiona
 - SQL (Basic)
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-- Data Visualization
-- Git & Digital Literacy
+- Excel
+- Git & GitHub
+- Digital Literacy
 
 ---
 
-## 📁 Project Structure
-01-python-basics → Python fundamentals  
-02-data-analysis → EDA, data cleaning, SQL projects  
-03-digital-literacy → Git, tools, documentation  
-04-data-visualization → Charts, graphs, dashboards  
+## 📁 Repository Structure
+
+```
+data-science-portfolio/
+│
+├── 01-python-basics/
+├── 02-data-analysis/
+├── 03-digital-literacy/
+├── 04-data-visualization/
+├── 05-machine-learning/
+│
+├── LICENSE
+└── README.md
+```
 
 ---
 
-## 📊 Featured Projects
-- Python Basics – Logic building programs  
-- Sales Analysis – Business data insights  
-- Housing Market EDA – Data cleaning and analysis  
-- Smartphone Market Analysis – EDA project  
-- SQL Retail Analytics – Database queries  
-- Data Visualization Dashboard – Charts using Matplotlib & Seaborn  
+## 📂 Featured Projects
+
+### 🐍 Python Basics
+- Data Summary Statistics Analyzer
+- Smart Calculator
+- Password Generator
+- File Organizer
+- Student Management System
+- Number Guessing Game
+
+### 📊 Data Analysis
+- Sales Data Analysis
+- Housing Market Analysis
+- Smartphone Market Analysis
+- Data Cleaning Projects
+- SQL Analytics
+
+### 📈 Data Visualization
+- Charts and Graphs
+- Dashboards using Matplotlib
+- Seaborn Visualizations
+
+### 🤖 Machine Learning
+- Beginner Machine Learning Projects
+- Model Training and Evaluation
+- AI Practice Projects
 
 ---
 
-## 📈 Future Goals
-- Machine Learning with Scikit-Learn  
-- Real-world Kaggle projects  
-- Power BI / Tableau dashboards  
-- Freelancing in Data Analysis  
+## 🚀 Future Goals
+
+- Learn Scikit-learn
+- Build end-to-end Machine Learning projects
+- Participate in Kaggle competitions
+- Learn Power BI and Tableau
+- Develop AI-powered applications
+- Start freelancing in Python and Data Analysis
 
 ---
 
 ## 📬 Contact
-📧 Email: madihaliaqat02@gmail.com
+
+📧 **Email:** madihaliaqat02@gmail.com
 
 ---
 
-⭐ This portfolio is continuously updated as I improve my Data Science skills.
+## ⭐ Thank You
+
+Thank you for visiting my portfolio! I continuously update this repository with new projects and improvements as I grow my skills in Python, Data Analysis, and Machine Learning.
